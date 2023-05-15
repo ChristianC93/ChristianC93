@@ -13,8 +13,20 @@ As a problem-solver with a tenacious attitude, I look forward to contributing to
 ### Anilist  [Demo](https://www.youtube.com/watch?v=h6WCD4nJtFA)  |  [Repo](https://github.com/ChristianC93/anime_List)
  A platform for anime fans to rate, review, and track their favorite anime shows
  
- ## Skills
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="100" />
+## Skills
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="100" align="left" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="100" align="left" />    
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="100" align="left" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="100" align="left" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="100" align="left" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="100" align="left" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" width="100" align="left" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="100" align="left" />
+          
+          
+          
+          
+          
 
           
           
