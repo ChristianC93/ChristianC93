@@ -12,6 +12,9 @@ As a problem-solver with a tenacious attitude, I look forward to contributing to
 
 ### Anilist  [Demo](https://www.youtube.com/watch?v=h6WCD4nJtFA)  |  [Repo](https://github.com/ChristianC93/anime_List)
  A platform for anime fans to rate, review, and track their favorite anime shows
+
+## Let's Connect
+<a href="https://www.linkedin.com/in/christian-castillo-22ab621a8/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="100" /></a>
  
 ## Skills
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="100" align="left" />
@@ -22,6 +25,8 @@ As a problem-solver with a tenacious attitude, I look forward to contributing to
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="100" align="left" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" width="100" align="left" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="100" align="left" />
+
+          
           
           
           
