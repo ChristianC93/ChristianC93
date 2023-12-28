@@ -1,7 +1,7 @@
 # Hello everyone, I'm Christian 👋
 Full Stack Developer with a passion for learning and strong communication, collaboration and interpersonal skills.
 
-Experienced in Ruby on Rails, JavaScript, and React, with a background in customer service in a corporate environment.
+Experienced in JavaScript, and React, Node, and Ruby on Rails with a background in customer service in a corporate environment.
 
 As a problem-solver with a tenacious attitude, I look forward to contributing to challenging and rewarding work, along with continuing my professional growth.
 
