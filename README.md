@@ -9,9 +9,11 @@ As a problem-solver with a tenacious attitude, I look forward to contributing to
 ## Projects
 ### Calorie Tracker  [Demo](https://www.youtube.com/watch?v=QUHbAXNCoXI) |  [Repo](https://github.com/ChristianC93/calorie-tracker) 
  A calorie tracker that allows users to register, log-in, and view their meal and exercise data in a table format.
+ Built using a React Frontend and a Rails Backend
 
 ### Anilist  [Demo](https://www.youtube.com/watch?v=h6WCD4nJtFA)  |  [Repo](https://github.com/ChristianC93/anime_List)
  A platform for anime fans to rate, review, and track their favorite anime shows
+ Built using a React Frontend and Rails Backend 
 
 ## Let's Connect
 <a href="https://www.linkedin.com/in/christian-castillo-22ab621a8/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="100" /></a>
